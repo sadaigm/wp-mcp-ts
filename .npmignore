@@ -1,0 +1,16 @@
+node_modules/
+src/
+*.ts
+!dist/**/*.d.ts
+.git/
+.gitignore
+.vscode/
+.idea/
+tsconfig.json
+*.md
+!README.md
+.env
+.env.example
+.DS_Store
+*.log
+ts-mcp-docs.md
